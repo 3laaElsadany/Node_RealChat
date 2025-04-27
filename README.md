@@ -17,4 +17,4 @@ RealChat is a real-time chat application built with **Node.js**, **Express**, an
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/3laaElsadany/RealChat.git
+git clone https://github.com/3laaElsadany/Node_RealChat.git
